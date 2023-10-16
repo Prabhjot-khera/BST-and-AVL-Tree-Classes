@@ -5,8 +5,7 @@
 
 class AVLTree : public BinarySearchTree {
 public:
-    // Overriden insert and remove functions
-    // Do not modify these definitions
+    
 
     // The AVL tree should be kept balanced after calling just insert or remove.
     bool insert(DataType val);
